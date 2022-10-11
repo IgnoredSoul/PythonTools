@@ -1,7 +1,5 @@
-# How To Use
-1. Plug Your Quest Into Your pc
-2. Run Program...
+# **-- QuestLogger --**
+Made it for cleaner logs and so I can use terminal instead of cmd
 
-Simple Right?
-
-*Totally Didnt Spend 5 Hrs Making This Simple Bullshit Over Complicating Shit*
+# **--QuickModTester--**
+Literally made it to be lazy, it replaces ur old mod with ur new compiled mod, Starts up the game and then outputs the logs lmaooo
